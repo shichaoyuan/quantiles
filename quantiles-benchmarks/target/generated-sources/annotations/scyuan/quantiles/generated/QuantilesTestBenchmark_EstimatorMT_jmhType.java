@@ -1,0 +1,4 @@
+package scyuan.quantiles.generated;
+public class QuantilesTestBenchmark_EstimatorMT_jmhType extends QuantilesTestBenchmark_EstimatorMT_jmhType_B3 {
+}
+
