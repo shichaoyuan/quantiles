@@ -1,4 +1,0 @@
-package scyuan.quantiles.generated;
-public class QuantilesTestBenchmark_EstimatorThreadLocal_jmhType extends QuantilesTestBenchmark_EstimatorThreadLocal_jmhType_B3 {
-}
-
